@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "712486681839",
+    "firebase_url": "https://ambulanceuzb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ambulanceuzb",
+    "storage_bucket": "ambulanceuzb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712486681839:android:f9d86cb24c6f5027f2ef1a",
+        "android_client_info": {
+          "package_name": "com.example.ambulance_for_hospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzOfAI50xIiRp5U3jFUWjhyz4Y00bjPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712486681839:android:6ca02e94d8809524f2ef1a",
+        "android_client_info": {
+          "package_name": "com.lider.tezyordam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHzOfAI50xIiRp5U3jFUWjhyz4Y00bjPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
